@@ -1,0 +1,21 @@
+nav {
+    height: 60px;
+    background-color: #2c3e50;
+    color: #fff;
+}
+
+nav>div{
+    /* debug */
+    border: #fff 1px solid;
+}
+
+#jumbotron{
+    background-color: #2bbc9c;
+    height: 500px;
+}
+
+#jumbotron>div{
+    text-align: center;
+    /* debug */
+    border: #fff 1px solid;
+}
