@@ -20,17 +20,7 @@ nav>div{
     border: #fff 1px solid;
 }
 
-#portfolio{
-    /* margin-top: 50px;
-    margin-bottom: 50px; */
-    /* debug */
-    /* border:  1px solid #000;
-    background-color: blueviolet; */
-}
-.ms_container{
-    width: 80%;
-    margin: 50px auto;
-}
+
 
 #portfolio>.row:nth-child(2)>div{
     border-radius: 5px;
