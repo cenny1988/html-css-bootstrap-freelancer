@@ -19,3 +19,20 @@ nav>div{
     /* debug */
     border: #fff 1px solid;
 }
+
+#portfolio{
+
+    /* debug */
+    border:  1px solid #000;
+    background-color: blueviolet;
+}
+
+#portfolio>.row:nth-child(2)>div{
+    border-radius: 5px;
+    /* debug */
+    border:  1px solid #000;
+    background-color: bisque;
+    height: 100px;
+}
+
+
