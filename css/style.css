@@ -21,10 +21,15 @@ nav>div{
 }
 
 #portfolio{
-
+    /* margin-top: 50px;
+    margin-bottom: 50px; */
     /* debug */
-    border:  1px solid #000;
-    background-color: blueviolet;
+    /* border:  1px solid #000;
+    background-color: blueviolet; */
+}
+.ms_container{
+    width: 80%;
+    margin: 50px auto;
 }
 
 #portfolio>.row:nth-child(2)>div{
@@ -35,4 +40,15 @@ nav>div{
     height: 100px;
 }
 
+#about{
+    background-color: #2bbc9c;
+    color: #fff;
+    /* debug */
+    /* height: 500px; */
+}
 
+#about .row, #contact .row{
+    /* debug */
+    background-color: burlywood;
+    border: #000 1px solid;
+}
