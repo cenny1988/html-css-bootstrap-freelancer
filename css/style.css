@@ -94,8 +94,15 @@ footer i{
     font-size: 1.8rem;
     padding: 0 5px;
 }
-footer a {
+footer a{
     text-decoration: none;
+    color: #fff;
+}
+footer a:hover {
+    color: #fff;
+    opacity: .8;
+}
+footer>.container>.row>div:last-child a{
     color: #2bbc9c;
 }
 
