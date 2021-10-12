@@ -38,6 +38,19 @@ nav>div{
     border-radius: 25px;
 }
 
+#portfolio{
+    margin: 30px 0;
+    color: #474747;
+}
+#portfolio .fake-hr{
+    border-color: #474747;
+}
+.img-thumbnail{
+    border: none;
+    border-radius: 1.25rem;
+}
+
+
 #portfolio>.row:nth-child(2)>div{
     border-radius: 5px;
     /* debug */
