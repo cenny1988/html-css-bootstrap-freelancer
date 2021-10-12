@@ -50,26 +50,14 @@ nav>div{
     border-radius: 1.25rem;
 }
 
-
-#portfolio>.row:nth-child(2)>div{
-    border-radius: 5px;
-    /* debug */
-    border:  1px solid #000;
-    background-color: bisque;
-    height: 100px;
-}
-
 #about{
+    padding: 30px 0;
     background-color: #2bbc9c;
     color: #fff;
-    /* debug */
-    /* height: 500px; */
 }
-
-#about .row, #contact .row{
-    /* debug */
-    background-color: burlywood;
-    border: #000 1px solid;
+.btn-outline-success {
+    color: #fff;
+    border-color: #fff;
 }
 
 footer{
