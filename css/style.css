@@ -8,6 +8,10 @@ header .navbar-light .navbar-toggler-icon {
 header .navbar-collapse {
     flex-grow: 0;
 }
+header .navbar-light .navbar-toggler, .btn-outline-success {
+    border-color: #fff;
+    color: #fff;
+}
 header .navbar-light .navbar-toggler,
 header .navbar-light .navbar-nav .nav-link.active, 
 .navbar-light .navbar-nav .show>.nav-link, header .navbar-light .navbar-nav .nav-link,
@@ -62,10 +66,6 @@ i{
     padding: 30px 0;
     background-color: #2bbc9c;
     color: #fff;
-}
-.btn-outline-success {
-    color: #fff;
-    border-color: #fff;
 }
 
 #contact .form-control {
